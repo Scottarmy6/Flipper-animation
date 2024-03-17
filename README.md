@@ -1,3 +1,5 @@
+To install, download ZIP file, extract and upload all files and folders to Dolphin folder.
+
 
 Following is a set of screenshots off qFlipper to show animations
 
@@ -20,3 +22,8 @@ Following is a set of screenshots off qFlipper to show animations
 #5WhiteScar Marine
 
 ![Screenshot-20240315-214758](https://github.com/Scottarmy6/Flipper-animation/assets/118234418/4a19c59c-ac5a-41ea-b741-73f6b040f884)
+
+#6Imperial Knight Firing
+
+![Screenshot-20240316-203042](https://github.com/Scottarmy6/Flipper-animation/assets/118234418/6a641147-3e35-4bc0-a6df-f7faa5253e4e)
+
