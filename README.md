@@ -27,3 +27,11 @@ Following is a set of screenshots off qFlipper to show animations
 
 ![Screenshot-20240316-203042](https://github.com/Scottarmy6/Flipper-animation/assets/118234418/6a641147-3e35-4bc0-a6df-f7faa5253e4e)
 
+#7Templar burning picnic
+
+![Screenshot-20240316-214239](https://github.com/Scottarmy6/Flipper-animation/assets/118234418/b7b5d2d1-439f-4d1f-8932-c0d6f99566cb)
+
+#8Templar Killing Furries
+
+![Screenshot-20240316-215800](https://github.com/Scottarmy6/Flipper-animation/assets/118234418/22359739-25b1-4330-ae85-4853c6fd9d81)
+
